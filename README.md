@@ -24,7 +24,7 @@ An online gallery for displaying visual art pieces. Utilizes Vue.js and a custom
 --->
 ## Get in Touch
 
-- 📫 **Telegram:** [@kirisuguemiya](https://t.me/kirisuguemiya)
+- 📫 **Telegram:** [@handJumper](https://t.me/HandJumper)
 <!---- 🌐 **Website:** [tolukusan.dev](https://tolukusan.dev) *(Replace with your actual website if you have one)*
 --->
 ## Contributions
