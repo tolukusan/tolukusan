@@ -1,16 +1,14 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=TOLU.EXE&fontSize=90&fontColor=ff79c6&animation=fadeIn&fontAlignY=45&desc=full-stack%20%2F%2F%20ai%20systems%20%2F%2F%20builder&descAlignY=68&descAlign=50&descColor=bd93f9" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=280&text=TOLU.EXE&fontSize=90&fontColor=FFFFFF&fontAlignY=50&desc=full-stack%20%E2%96%A0%20ai%20systems%20%E2%96%A0%20builder&descAlignY=68&descAlign=50&descColor=555555&stroke=0a0a0a" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2000&pause=500&color=FF79C6&center=true&vCenter=true&width=750&lines=%3E_+SYSTEM+BOOT+...+%5BOK%5D;%3E_+profile%2Fconfig+loaded+...+%5BDONE%5D;%3E_+full_stack_module+...+%5BACTIVE%5D;%3E_+ai_systems_module+...+%5BACTIVE%5D;%3E_+anime_aesthetic.dll+...+%5BLOADED%5D;%3E_+genshin_addict.exe+...+%5BWARNING%5D;%3E_+coffee_dependency+...+%5BCRITICAL%5D;%3E_+Building+in+%F0%9F%87%B3%F0%9F%87%AC%2C+shipping+for+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2000&pause=500&color=FF0099&center=true&vCenter=true&width=750&lines=%3E_+SYSTEM+BOOT+...+%5BOK%5D;%3E_+profile%2Fconfig+loaded+...+%5BDONE%5D;%3E_+full_stack_module+...+%5BACTIVE%5D;%3E_+ai_systems_module+...+%5BACTIVE%5D;%3E_+anime_aesthetic.dll+...+%5BLOADED%5D;%3E_+genshin_addict.exe+...+%5BWARNING%5D;%3E_+coffee_dependency+...+%5BCRITICAL%5D;%3E_+Building+in+%F0%9F%87%B3%F0%9F%87%AC%2C+shipping+for+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tolukusan&color=ff79c6&style=for-the-badge&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=tolukusan&color=FF0099&style=for-the-badge&label=VISITORS)
 &nbsp;&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-@HandJumper-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HandJumper)
 
@@ -18,7 +16,7 @@
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=FF0099&height=3" width="100%"/></div>
 
 <br/>
 
@@ -26,12 +24,12 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  📟  PROCESS INFO — tolu_afolayan.exe                       ║
+║  📟  PROCESS INFO - tolu_afolayan.exe                       ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║   name      ›  Afolayan Iseoluwa Toluwalase                  ║
 ║   handle    ›  @tolukusan                                    ║
-║   location  ›  Ibadan, Nigeria  🇳🇬                        ║
+║   location  ›  Ibadan, Nigeria  🇳🇬                           ║
 ║   role      ›  Full-Stack Dev  +  AI Systems Tinkerer        ║
 ║   focus     ›  Fintech  ·  AI Tooling  ·  Web Platforms      ║
 ║   hobbies   ›  Anime  ·  Weightlifting  ·  Genshin Impact    ║
@@ -45,7 +43,7 @@
 ║   AI / LLM  ›  ████████████████████  95%  ← growing daily    ║
 ║                                                              ║
 ║   status    ›  [████████░░]  80% caffeinated                 ║
-║   mood      ›  [▓▓▓▓▓▓▓▓▓░]  in the zone                    ║
+║   mood      ›  [▓▓▓▓▓▓▓▓▓░]  in the zone                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -118,28 +116,13 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=tolukusan&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=0d0221&title_color=ff79c6&icon_color=bd93f9&text_color=c0caf5" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolukusan&theme=radical&hide_border=true&layout=compact&bg_color=0d0221&title_color=ff79c6&text_color=c0caf5" />
-</td>
-</tr>
-</table>
-
-<img src="https://streak-stats.demolab.com?user=tolukusan&theme=radical&hide_border=true&background=0d0221&ring=ff79c6&fire=ff79c6&currStreakLabel=bd93f9" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=tolukusan&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://streak-stats.demolab.com?user=tolukusan&theme=radical&hide_border=true&background=0D0221&ring=FF0099&fire=FF0099&currStreakLabel=BD93F9&dates=BD93F9&stroke=4B0082&sideLabels=BD93F9" />
 
 </div>
 
 <br/>
 
-<!-- 
+<!--
   CONTRIBUTION SNAKE — requires a GitHub Action to generate the SVG.
   Create .github/workflows/snake.yml with the following:
 
@@ -177,16 +160,16 @@
 
 ```
 ⚡ INTEREST LOG ────────────────────────────────────────────────
-                                                                
-  📈  Nigerian stock market & fintech investment research       
-  🎮  Gaming — Genshin Impact (send primogems pls)             
-  🎨  Anime / lofi aesthetics in UI design                     
-  🧠  Distributed systems, ledger design & escrow architecture  
-  🏋️   Strength training & weightlifting                       
-  🌍  African tech ecosystem & developer communities           
-  🤖  LLM tooling, MCP integrations & AI automation            
-  🎵  Lofi beats to code / chill to                            
-                                                                
+
+  📈  Nigerian stock market & fintech investment research
+  🎮  Gaming — Genshin Impact (send primogems pls)
+  🎨  Anime / lofi aesthetics in UI design
+  🧠  Distributed systems, ledger design & escrow architecture
+  🏋️   Strength training & weightlifting
+  🌍  African tech ecosystem & developer communities
+  🤖  LLM tooling, MCP integrations & AI automation
+  🎵  Lofi beats to code / chill to
+
 ────────────────────────────────────────────────────────────────
 ```
 
@@ -211,7 +194,5 @@
 ```
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Building+in+Nigeria.+Shipping+for+Africa.+%F0%9F%8C%8D&fontSize=18&fontColor=bd93f9&animation=fadeIn" width="100%"/>
 
 </div>
