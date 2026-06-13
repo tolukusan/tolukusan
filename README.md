@@ -48,36 +48,6 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
-
-## `> ls ~/projects`
-
-```
-📁 ~/projects/
-│
-├── 💸 ajoti/ ────────────────────────────────── [PRODUCTION]
-│   ├── Nigerian ROSCA + fintech platform
-│   ├── Savings circles, P2P transactions & KYC workflows
-│   └── NestJS · PostgreSQL · Redis · Flutterwave · Docker · Traefik
-│
-├── 🧵 stitchpro/ ────────────────────────────── [IN PROGRESS]
-│   ├── Full-featured tailoring business management system
-│   ├── Orders, measurements, client management & scheduling
-│   └── React · NestJS · PostgreSQL
-│
-├── 📊 timeline-app/ ─────────────────────────── [DEPLOYED]
-│   ├── High-density Gantt chart & resource orchestration tool
-│   ├── Cloud sync, multi-role management & CSV data handling
-│   └── React · Supabase
-│
-└── 🎓 cert-forge/ ───────────────────────────── [DEPLOYED]
-    ├── Certificate generation engine — canvas, QR, batch PDF
-    ├── Custom text, image overlays & batch CSV processing
-    └── React · Fabric.js · jsPDF
-```
-
-<br/>
-
 ## `> cat tech_stack.conf`
 
 **Frontend**
@@ -180,19 +150,5 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=@HandJumper)](https://t.me/HandJumper)
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    "Building high-density tools for an automated future."    ║
-║                                                              ║
-║    Open to collabs  ·  DM on Telegram  ·  explore my repos   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
 
 </div>
