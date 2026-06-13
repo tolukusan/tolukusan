@@ -27,9 +27,9 @@
 ║  📟  PROCESS INFO - tolu_afolayan.exe                       ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   name      ›  Afolayan Iseoluwa Toluwalase                  ║
+║   name      ›  Toluwalase                                    ║
 ║   handle    ›  @tolukusan                                    ║
-║   location  ›  Ibadan, Nigeria  🇳🇬                           ║
+║   location  ›  Nigeria  🇳🇬                                   ║
 ║   role      ›  Full-Stack Dev  +  AI Systems Tinkerer        ║
 ║   focus     ›  Fintech  ·  AI Tooling  ·  Web Platforms      ║
 ║   hobbies   ›  Anime  ·  Weightlifting  ·  Genshin Impact    ║
